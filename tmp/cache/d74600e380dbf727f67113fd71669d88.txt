@@ -1,0 +1,41 @@
+a:2:{s:4:"data";s:1293:"<li>
+    <a href="category/usa">США</a>
+            <ul>
+            <li>
+    <a href="category/bronetechikusa">Бронетехника</a>
+    </li><li>
+    <a href="category/samoletyusa">Самолеты</a>
+    </li><li>
+    <a href="category/weaponusa">Оружие</a>
+    </li><li>
+    <a href="category/flot">Флот</a>
+    </li><li>
+    <a href="category/amfibii">Амфибии</a>
+    </li><li>
+    <a href="category/katera">Катера</a>
+    </li>        </ul>
+    </li><li>
+    <a href="category/ussr">СССР</a>
+            <ul>
+            <li>
+    <a href="category/bronetechikaussr">Бронетехника</a>
+    </li><li>
+    <a href="category/samoletyussr">Самолеты</a>
+    </li><li>
+    <a href="category/weaponussr">Оружие</a>
+    </li><li>
+    <a href="category/flot-30">Флот</a>
+    </li><li>
+    <a href="category/minomety">Миномёты</a>
+    </li>        </ul>
+    </li><li>
+    <a href="category/ger">ГЕРМАНИЯ</a>
+            <ul>
+            <li>
+    <a href="category/bronetechikager">Бронетехника</a>
+    </li><li>
+    <a href="category/samoletyger">Самолеты</a>
+    </li><li>
+    <a href="category/weaponger">Оружие</a>
+    </li>        </ul>
+    </li>";s:8:"end_time";i:1611682328;}
